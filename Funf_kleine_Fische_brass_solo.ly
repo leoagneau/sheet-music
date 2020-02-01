@@ -5,8 +5,9 @@
 }
 
 \score {
-  \relative c'' {
+  \relative c' {
     \tempo 4 = 112
+    \clef "bass"
     \key bes \major
     r8 bes4. g4. fis8
     g8 bes8 g8 aes8 a8 aes8 g8 fis8
